@@ -1,3 +1,2 @@
 "# Bookstore Java"  
-"Test"
-"test"
+"Commit 1"
